@@ -30,9 +30,17 @@ Create a folder named `ETT-small` in the main directory and place the following 
 <pre lang="markdown"> <code>```text <project-root>/ ├── ETT-small/ │ ├── ETTh1.csv │ ├── ETTh2.csv │ ├── ETTm1.csv │ └── ETTm2.csv ```</code> </pre>
 
 
-<project-root>/
-└──  ETT-small/
+Main
+
+└──  ETT-small
+
 │   ├── ETTh1.csv
+
+
 │   ├── ETTh2.csv
+
+
 │   ├── ETTm1.csv
+
+
 │   └── ETTm2.csv
