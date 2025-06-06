@@ -4,14 +4,14 @@
 Due to memory constrain the electricity dataset and the model weights are saved in the google drive . 
 
 Google drive link:
-https://drive.google.com/file/d/1OGU2TcuKw9nfchNZ91JUIroH-h8dQXR9/view?usp=drive_link
+https://drive.google.com/drive/folders/1JOCTAPNvjONCdmYBbYYO6Ten8_lsR1LZ?usp=sharing
 
 
 
 
 #### Directory Structure:
 
-Ensure that Model_FNet_HorizonLength.py and Test_FNet_EFNet_HorizonLength.py are located in the **same main directory**.
+Ensure that Model_FNet_96.py and Test_FNet_EFNet_96.py are located in the **same main directory**.
 
 The dataset and code files must be organized as follows in the main project directory:
 
@@ -34,8 +34,19 @@ The dataset and code files must be organized as follows in the main project dire
 │   ├── EFNet_Weight_96.tf
 ```
 
-#### Generate the results
-Run following command
+
+The `.tf` folders should be placed in the **main directory**.
+
+---
+
+#### Running Experiments
+
+##### Example:
+
+To generate results for the **ETTh1** dataset with a **forecast horizon of 96**, run:
+
 ```bash
 python3 Test_FNet_EFNet_96.py
-```
+
+
+
