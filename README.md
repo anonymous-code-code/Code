@@ -1,7 +1,9 @@
 ## This reposetory is created to generate the results for F-Net and EF-Net 
 
 ## Note
-Due to memory constrain the electricity dataset is saved in google drive. The electricity dataset can be downloaded from the following link
+Due to memory constrain the electricity dataset and the model weights are saved in the google drive . 
+
+Google drive link:
 https://drive.google.com/file/d/1OGU2TcuKw9nfchNZ91JUIroH-h8dQXR9/view?usp=drive_link
 
 
