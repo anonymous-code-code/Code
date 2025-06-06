@@ -26,7 +26,7 @@ The dataset files must be organized as follows in the main project directory:
 #### For ETT Datasets (`ETTh1`, `ETTh2`, `ETTm1`, `ETTm2`)
 Create a folder named `ETT-small` in the main directory and place the following files inside it:
 
-
+<!-- TREEVIEW START -->
 Main
 └── dataset
     └──  ETT-small
@@ -35,7 +35,7 @@ Main
       └── ETTh2.csv
       └── ETTh2.csv
 
-
+<!-- TREEVIEW END -->
 │   ├── ETTh2.csv
 
 
