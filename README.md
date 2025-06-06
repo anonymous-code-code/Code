@@ -47,6 +47,7 @@ To generate results for the **ETTh1** dataset with a **forecast horizon of 96**,
 
 ```bash
 python3 Test_FNet_EFNet_96.py
+```
 
-
+To use a different dataset (e.g., ETTh2, ETTm1, electricity, weather, etc.), simply change the dataset name in the corresponding test script (Test_FNet_EFNet_96.py, Test_FNet_EFNet_192.py, etc.).
 
