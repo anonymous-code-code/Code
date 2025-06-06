@@ -26,14 +26,14 @@ The dataset and code files must be organized as follows in the main project dire
 │   │   │   ├── electricity.csv
 │   │   ├── weather
 │   │   │   ├── weather.csv
-│   ├── Model_FNet_HorizonLength.py
-│   ├── Test_FNet_EFNet_HorizonLength.py
-│   ├── FNet_Weight_HorizonLength.tf
-│   ├── EFNet_Weight_HorizonLength.tf
+│   ├── Model_FNet_96.py
+│   ├── Test_FNet_EFNet_96.py
+│   ├── FNet_Weight_96.tf
+│   ├── EFNet_Weight_96.tf
 ```
 
 #### Generate the results
 Run following command
 ```bash
-python3 Test_FNet_EFNet_HorizonLength.py
+python3 Test_FNet_EFNet_96.py
 ```
