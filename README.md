@@ -41,7 +41,7 @@ Create a folder named `ETT-small` in the main directory and place the following 
 
 
 <project-root>/
-├── ETT-small/
+└──  ETT-small/
 │   ├── ETTh1.csv
 │   ├── ETTh2.csv
 │   ├── ETTm1.csv
