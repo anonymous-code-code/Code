@@ -2,6 +2,7 @@
 
 ## Note
 Due to memory constrain the electricity dataset is saved in google drive. The electricity dataset can be downloaded from the foloowing link
+https://drive.google.com/file/d/1OGU2TcuKw9nfchNZ91JUIroH-h8dQXR9/view?usp=drive_link
 
 
 ## Generate the results
