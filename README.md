@@ -28,10 +28,12 @@ Create a folder named `ETT-small` in the main directory and place the following 
 
 
 Main
-
-└──  ETT-small
-
-└── ETTh1.csv
+└── dataset
+    └──  ETT-small
+      └── ETTh1.csv
+      └── ETTh2.csv
+      └── ETTh2.csv
+      └── ETTh2.csv
 
 
 │   ├── ETTh2.csv
