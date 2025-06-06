@@ -40,21 +40,3 @@ Create a folder named `ETT-small` in the main directory and place the following 
 │   ├── Test_FNet_EFNet_96.py
 ```
 
-
-<!-- TREEVIEW START -->
-Main
-└── dataset
-    └──  ETT-small
-      └── ETTh1.csv
-      └── ETTh2.csv
-      └── ETTh2.csv
-      └── ETTh2.csv
-
-<!-- TREEVIEW END -->
-│   ├── ETTh2.csv
-
-
-│   ├── ETTm1.csv
-
-
-│   └── ETTm2.csv
