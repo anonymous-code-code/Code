@@ -6,25 +6,12 @@ https://drive.google.com/file/d/1OGU2TcuKw9nfchNZ91JUIroH-h8dQXR9/view?usp=drive
 
 
 ## Generate the results
-Directory Structure and Dataset Requirements:
-Ensure that Model_FNet_96.py and Test_FNet_EFNet_96.py are located in the same main directory.
 
-The dataset files should be organized in the following structure within the main project directory:
-
-For ETT Datasets (ETTh1, ETTh2, ETTm1, ETTm2)
-Create a folder named ETT-small in the main directory. Place the following CSV files inside it:
-
-### Dataset Setup and Usage Instructions
-
-#### Directory Structure and Dataset Requirements:
+#### Directory Structure:
 
 Ensure that Model_FNet_96.py and Test_FNet_EFNet_96.py are located in the **same main directory**.
 
-The dataset files must be organized as follows in the main project directory:
-
-##### For ETT Datasets (`ETTh1`, `ETTh2`, `ETTm1`, `ETTm2`)
-Create a folder named `ETT-small` in the main directory and place the following files inside it:
-
+The dataset and code files must be organized as follows in the main project directory:
 
 
 ```bash
@@ -35,7 +22,19 @@ Create a folder named `ETT-small` in the main directory and place the following 
 │   │   │   ├── ETTh2.csv
 │   │   │   ├── ETTm1.csv
 │   │   │   ├── ETTm2.csv
+│   │   ├── electricity
+│   │   │   ├── electricity.csv
+│   │   ├── weather
+│   │   │   ├── weather.csv
 │   ├── Model_FNet_96.py
 │   ├── Test_FNet_EFNet_96.py
+│   ├── Model_FNet_192.py
+│   ├── Test_FNet_EFNet_192.py
+│   ├── Model_FNet_336.py
+│   ├── Test_FNet_EFNet_336.py
+│   ├── Model_FNet_720.py
+│   ├── Test_FNet_EFNet_720.py
+│   ├── FNet_Weight.tf
+│   ├── EFNet_Weight.tf
 ```
 
