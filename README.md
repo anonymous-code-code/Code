@@ -29,9 +29,13 @@ Create a folder named `ETT-small` in the main directory and place the following 
 
 
 ```bash
-├── app
-│   ├── css
-│   │   ├── **/*.css
+├── Main directory
+│   ├── dataset
+│   │   ├── ETT-small
+│   │   │   ├── ETTh1.csv
+│   │   │   ├── ETTh2.csv
+│   │   │   ├── ETTm1.csv
+│   │   │   ├── ETTm2.csv
 │   ├── favicon.ico
 │   ├── images
 │   ├── index.html
