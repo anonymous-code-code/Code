@@ -27,7 +27,7 @@ The dataset files must be organized as follows in the main project directory:
 Create a folder named `ETT-small` in the main directory and place the following files inside it:
 
 
-<pre lang="markdown"> <code>```text <project-root>/ ├── ETT-small/ │ ├── ETTh1.csv │ ├── ETTh2.csv │ ├── ETTm1.csv │ └── ETTm2.csv ```</code> </pre>
+<pre lang="markdown"> <code>```text <project-root>// ├── ETT-small// │ ├── ETTh1.csv │ ├── ETTh2.csv │ ├── ETTm1.csv │ └── ETTm2.csv ```</code> </pre>
 
 
 <project-root>/
