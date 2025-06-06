@@ -1,7 +1,8 @@
-## This reposetory is created to generate the results for F-Net and EF-Net 
+## This repository is created to reproduce results for F-Net and EF-Net models on various time series forecasting datasets.
+
 
 ## Note
-Due to memory constrain the electricity dataset and the model weights are saved in the google drive . 
+Due to memory constraints, the electricity dataset and model weights are hosted on Google Drive.
 
 Google drive link:
 https://drive.google.com/drive/folders/1JOCTAPNvjONCdmYBbYYO6Ten8_lsR1LZ?usp=sharing
@@ -11,9 +12,9 @@ https://drive.google.com/drive/folders/1JOCTAPNvjONCdmYBbYYO6Ten8_lsR1LZ?usp=sha
 
 #### Directory Structure:
 
-Ensure that Model_FNet_96.py and Test_FNet_EFNet_96.py are located in the **same main directory**.
+Ensure that Model_FNet_HorizonLength.py and Test_FNet_EFNet_HorizonLength.py are located in the main project directory.
 
-The dataset and code files must be organized as follows in the main project directory:
+The datasets and code files should follow the structure below:
 
 
 ```bash
