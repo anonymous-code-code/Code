@@ -26,15 +26,9 @@ The dataset and code files must be organized as follows in the main project dire
 │   │   │   ├── electricity.csv
 │   │   ├── weather
 │   │   │   ├── weather.csv
-│   ├── Model_FNet_96.py
-│   ├── Test_FNet_EFNet_96.py
-│   ├── Model_FNet_192.py
-│   ├── Test_FNet_EFNet_192.py
-│   ├── Model_FNet_336.py
-│   ├── Test_FNet_EFNet_336.py
-│   ├── Model_FNet_720.py
-│   ├── Test_FNet_EFNet_720.py
-│   ├── FNet_Weight.tf
-│   ├── EFNet_Weight.tf
+│   ├── Model_FNet_HorizonLength.py
+│   ├── Test_FNet_EFNet_HorizonLength.py
+│   ├── FNet_Weight_HorizonLength.tf
+│   ├── EFNet_Weight_HorizonLength.tf
 ```
 
