@@ -12,7 +12,7 @@ https://drive.google.com/drive/folders/1JOCTAPNvjONCdmYBbYYO6Ten8_lsR1LZ?usp=sha
 
 #### Directory Structure:
 
-Ensure that Model_FNet_HorizonLength.py and Test_FNet_EFNet_HorizonLength.py are located in the main project directory.
+Ensure that Model_FNet.py and Test_FNet_EFNet_HorizonLength.py are located in the main project directory.
 
 The datasets and code files should follow the structure below:
 
@@ -29,7 +29,7 @@ The datasets and code files should follow the structure below:
 │   │   │   ├── electricity.csv
 │   │   ├── weather
 │   │   │   ├── weather.csv
-│   ├── Model_FNet_96.py
+│   ├── Model_FNet.py
 │   ├── Test_FNet_EFNet_96.py
 │   ├── FNet_Weight_96.tf
 │   ├── EFNet_Weight_96.tf
