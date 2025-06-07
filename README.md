@@ -8,7 +8,11 @@ Google drive link:
 https://drive.google.com/drive/folders/1JOCTAPNvjONCdmYBbYYO6Ten8_lsR1LZ?usp=sharing
 
 
-
+## Preparation
+Install Python 3.7 and neccessary dependencies.
+```bash
+pip install -r req.txt
+```
 
 #### Directory Structure:
 
