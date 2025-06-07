@@ -142,7 +142,7 @@ x_val, y_val = sample_creation(val_data)
 x_test, y_test = sample_creation(test_data)
 
 
-from Model_FNet_96 import Encoder
+from Model_FNet import Encoder
 def build_transformer_model(input_shape, num_layers, d_model, dff, maximum_position_encoding, output_shape, rate=0.1):
     inputs = Input(shape=input_shape)
     encoder1 = Encoder(num_layers, d_model, dff, input_shape[-1], maximum_position_encoding, rate)
