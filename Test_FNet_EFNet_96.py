@@ -8,8 +8,6 @@ from scipy.stats import kurtosis
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-import plotly.express as px
-import plotly.graph_objects as go
 import scipy.io
 import os
 from scipy.stats import skew
