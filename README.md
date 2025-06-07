@@ -2,7 +2,7 @@
 
 
 ## Note
-Due to memory constraints, the electricity dataset and model weights are hosted on Google Drive.
+Due to memory constraints, the electricity dataset and model weights are saved in Google Drive.
 
 Google drive link:
 https://drive.google.com/drive/folders/1JOCTAPNvjONCdmYBbYYO6Ten8_lsR1LZ?usp=sharing
